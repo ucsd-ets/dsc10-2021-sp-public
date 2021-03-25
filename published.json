@@ -1,0 +1,50 @@
+{
+    "collections": {
+        "homeworks": {
+            "schema": {
+                "required_artifacts": [
+                    "export.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
+            "publications": {}
+        },
+        "discussions": {
+            "schema": {
+                "required_artifacts": [
+                    "export.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {}
+        },
+        "default": {
+            "schema": {
+                "required_artifacts": [],
+                "optional_artifacts": null,
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": true,
+                "is_ordered": false
+            },
+            "publications": {
+                "lectures/01-intro": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "default/lectures/01-intro/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "default/lectures/01-intro/filled/export.zip"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
