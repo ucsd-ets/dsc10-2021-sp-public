@@ -47,7 +47,7 @@
                 }
             }
         },
-        "discussions": {
+        "homeworks": {
             "schema": {
                 "required_artifacts": [
                     "export.zip"
@@ -55,7 +55,7 @@
                 "optional_artifacts": [],
                 "metadata_schema": null,
                 "allow_unspecified_artifacts": false,
-                "is_ordered": true
+                "is_ordered": false
             },
             "publications": {}
         },
@@ -69,18 +69,9 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {
-                "01-python_basics": {
-                    "metadata": {},
-                    "artifacts": {
-                        "export.zip": {
-                            "path": "labs/01-python_basics/export.zip"
-                        }
-                    }
-                }
-            }
+            "publications": {}
         },
-        "homeworks": {
+        "discussions": {
             "schema": {
                 "required_artifacts": [
                     "export.zip"
@@ -88,26 +79,9 @@
                 "optional_artifacts": [],
                 "metadata_schema": null,
                 "allow_unspecified_artifacts": false,
-                "is_ordered": false
+                "is_ordered": true
             },
-            "publications": {
-                "01-python_basics": {
-                    "metadata": {},
-                    "artifacts": {
-                        "export.zip": {
-                            "path": "homeworks/01-python_basics/export.zip"
-                        }
-                    }
-                },
-                "02-arrays_tables": {
-                    "metadata": {},
-                    "artifacts": {
-                        "export.zip": {
-                            "path": "homeworks/02-arrays_tables/export.zip"
-                        }
-                    }
-                }
-            }
+            "publications": {}
         },
         "default": {
             "schema": {
