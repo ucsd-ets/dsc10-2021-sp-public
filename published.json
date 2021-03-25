@@ -11,6 +11,42 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
+            "publications": {
+                "01-intro": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/01-intro/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/01-intro/filled/export.zip"
+                        }
+                    }
+                }
+            }
+        },
+        "discussions": {
+            "schema": {
+                "required_artifacts": [
+                    "export.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": false,
+                "is_ordered": true
+            },
+            "publications": {}
+        },
+        "labs": {
+            "schema": {
+                "required_artifacts": [
+                    "export.zip"
+                ],
+                "optional_artifacts": [],
+                "metadata_schema": null,
+                "allow_unspecified_artifacts": false,
+                "is_ordered": false
+            },
             "publications": {}
         },
         "homeworks": {
@@ -33,30 +69,6 @@
                     }
                 }
             }
-        },
-        "labs": {
-            "schema": {
-                "required_artifacts": [
-                    "export.zip"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": null,
-                "allow_unspecified_artifacts": false,
-                "is_ordered": false
-            },
-            "publications": {}
-        },
-        "discussions": {
-            "schema": {
-                "required_artifacts": [
-                    "export.zip"
-                ],
-                "optional_artifacts": [],
-                "metadata_schema": null,
-                "allow_unspecified_artifacts": false,
-                "is_ordered": true
-            },
-            "publications": {}
         },
         "default": {
             "schema": {
