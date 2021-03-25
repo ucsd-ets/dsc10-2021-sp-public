@@ -33,6 +33,17 @@
                             "path": "lectures/02-expressions-types/filled/export.zip"
                         }
                     }
+                },
+                "03-tables": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/03-tables/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/03-tables/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
