@@ -11,41 +11,7 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {
-                "01-intro": {
-                    "metadata": {},
-                    "artifacts": {
-                        "blank/export.zip": {
-                            "path": "lectures/01-intro/blank/export.zip"
-                        },
-                        "filled/export.zip": {
-                            "path": "lectures/01-intro/filled/export.zip"
-                        }
-                    }
-                },
-                "02-expressions-types": {
-                    "metadata": {},
-                    "artifacts": {
-                        "blank/export.zip": {
-                            "path": "lectures/02-expressions-types/blank/export.zip"
-                        },
-                        "filled/export.zip": {
-                            "path": "lectures/02-expressions-types/filled/export.zip"
-                        }
-                    }
-                },
-                "03-tables": {
-                    "metadata": {},
-                    "artifacts": {
-                        "blank/export.zip": {
-                            "path": "lectures/03-tables/blank/export.zip"
-                        },
-                        "filled/export.zip": {
-                            "path": "lectures/03-tables/filled/export.zip"
-                        }
-                    }
-                }
-            }
+            "publications": {}
         },
         "homeworks": {
             "schema": {
