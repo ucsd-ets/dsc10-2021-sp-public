@@ -35,7 +35,16 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {}
+            "publications": {
+                "01-python_basics": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/01-python_basics/export.zip"
+                        }
+                    }
+                }
+            }
         },
         "homeworks": {
             "schema": {
