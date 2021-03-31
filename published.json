@@ -11,7 +11,19 @@
                 "allow_unspecified_artifacts": false,
                 "is_ordered": false
             },
-            "publications": {}
+            "publications": {
+                "01-intro": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/01-intro/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/01-intro/filled/export.zip"
+                        }
+                    }
+                }
+            }
         },
         "discussions": {
             "schema": {
