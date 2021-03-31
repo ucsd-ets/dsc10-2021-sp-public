@@ -22,6 +22,17 @@
                             "path": "lectures/01-intro/filled/export.zip"
                         }
                     }
+                },
+                "02-expressions-types": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/02-expressions-types/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/02-expressions-types/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
