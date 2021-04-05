@@ -65,6 +65,14 @@
                             "path": "discussions/01-python_basics/export.zip"
                         }
                     }
+                },
+                "02-arrays_tables": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/02-arrays_tables/export.zip"
+                        }
+                    }
                 }
             }
         },
