@@ -55,6 +55,17 @@
                             "path": "lectures/04-queries-groupby/filled/export.zip"
                         }
                     }
+                },
+                "05-visualization": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/05-visualization/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/05-visualization/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
