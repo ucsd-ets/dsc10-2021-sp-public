@@ -66,6 +66,17 @@
                             "path": "lectures/05-visualization/filled/export.zip"
                         }
                     }
+                },
+                "06-functions-apply": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/06-functions-apply/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/06-functions-apply/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
