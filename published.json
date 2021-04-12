@@ -106,6 +106,14 @@
                             "path": "discussions/02-arrays_tables/export.zip"
                         }
                     }
+                },
+                "03-plotting_apply": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/03-plotting_apply/export.zip"
+                        }
+                    }
                 }
             }
         },
