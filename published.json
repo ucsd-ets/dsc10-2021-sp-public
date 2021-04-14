@@ -143,6 +143,14 @@
                             "path": "labs/02-arrays_tables/export.zip"
                         }
                     }
+                },
+                "03-apply_vis": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/03-apply_vis/export.zip"
+                        }
+                    }
                 }
             }
         },
