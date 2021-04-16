@@ -180,6 +180,14 @@
                             "path": "homeworks/02-arrays_tables/export.zip"
                         }
                     }
+                },
+                "03-functions": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "homeworks/03-functions/export.zip"
+                        }
+                    }
                 }
             }
         },
