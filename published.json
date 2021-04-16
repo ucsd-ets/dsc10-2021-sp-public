@@ -77,6 +77,17 @@
                             "path": "lectures/06-functions-apply/filled/export.zip"
                         }
                     }
+                },
+                "07-group-merge-conditionals-iteration": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/07-group-merge-conditionals-iteration/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/07-group-merge-conditionals-iteration/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
