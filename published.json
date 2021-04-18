@@ -211,6 +211,14 @@
                 "is_ordered": false
             },
             "publications": {
+                "projects/project1": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "default/projects/project1/export.zip"
+                        }
+                    }
+                },
                 "reference": {
                     "metadata": {},
                     "artifacts": {
