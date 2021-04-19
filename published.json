@@ -125,6 +125,14 @@
                             "path": "discussions/03-plotting_apply/export.zip"
                         }
                     }
+                },
+                "04-simulation": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/04-simulation/export.zip"
+                        }
+                    }
                 }
             }
         },
