@@ -170,6 +170,14 @@
                             "path": "labs/03-apply_vis/export.zip"
                         }
                     }
+                },
+                "04-conditionals_iteration": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/04-conditionals_iteration/export.zip"
+                        }
+                    }
                 }
             }
         },
