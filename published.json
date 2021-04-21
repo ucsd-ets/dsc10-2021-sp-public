@@ -88,6 +88,17 @@
                             "path": "lectures/07-group-merge-conditionals-iteration/filled/export.zip"
                         }
                     }
+                },
+                "08-simulation": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/08-simulation/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/08-simulation/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
