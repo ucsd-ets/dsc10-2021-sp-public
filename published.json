@@ -99,6 +99,17 @@
                             "path": "lectures/08-simulation/filled/export.zip"
                         }
                     }
+                },
+                "09-sampling": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/09-sampling/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/09-sampling/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
