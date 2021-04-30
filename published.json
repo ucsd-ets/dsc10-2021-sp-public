@@ -110,6 +110,17 @@
                             "path": "lectures/09-sampling/filled/export.zip"
                         }
                     }
+                },
+                "10-models_and_statistics": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/10-models_and_statistics/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/10-models_and_statistics/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
