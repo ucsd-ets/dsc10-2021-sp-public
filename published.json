@@ -121,6 +121,17 @@
                             "path": "lectures/10-models_and_statistics/filled/export.zip"
                         }
                     }
+                },
+                "11-hypothesis_testing": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/11-hypothesis_testing/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/11-hypothesis_testing/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
@@ -219,6 +230,14 @@
                             "path": "labs/04-conditionals_iteration/export.zip"
                         }
                     }
+                },
+                "05-hypothesis_testing": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/05-hypothesis_testing/export.zip"
+                        }
+                    }
                 }
             }
         },
@@ -276,6 +295,14 @@
                 "is_ordered": false
             },
             "publications": {
+                "midtermExamStuff": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "default/midtermExamStuff/export.zip"
+                        }
+                    }
+                },
                 "projects/project1": {
                     "metadata": {},
                     "artifacts": {
