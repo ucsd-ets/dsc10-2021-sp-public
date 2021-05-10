@@ -132,6 +132,17 @@
                             "path": "lectures/11-hypothesis_testing/filled/export.zip"
                         }
                     }
+                },
+                "12-ab-testing": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/12-ab-testing/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/12-ab-testing/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
