@@ -283,6 +283,14 @@
                             "path": "homeworks/04-simulation/export.zip"
                         }
                     }
+                },
+                "05-hypothesis": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "homeworks/05-hypothesis/export.zip"
+                        }
+                    }
                 }
             }
         },
