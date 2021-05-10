@@ -196,6 +196,14 @@
                             "path": "discussions/05-midterm_review/export.zip"
                         }
                     }
+                },
+                "06-hypothesis_testing": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/06-hypothesis_testing/export.zip"
+                        }
+                    }
                 }
             }
         },
