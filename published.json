@@ -143,6 +143,17 @@
                             "path": "lectures/12-ab-testing/filled/export.zip"
                         }
                     }
+                },
+                "13-bootstrap": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/13-bootstrap/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/13-bootstrap/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
