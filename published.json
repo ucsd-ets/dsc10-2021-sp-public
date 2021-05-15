@@ -321,6 +321,14 @@
                             "path": "homeworks/05-hypothesis/export.zip"
                         }
                     }
+                },
+                "06-bootstrap": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "homeworks/06-bootstrap/export.zip"
+                        }
+                    }
                 }
             }
         },
