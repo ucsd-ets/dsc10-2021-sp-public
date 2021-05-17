@@ -154,6 +154,17 @@
                             "path": "lectures/13-bootstrap/filled/export.zip"
                         }
                     }
+                },
+                "14-ci-mean-spread": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/14-ci-mean-spread/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/14-ci-mean-spread/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
