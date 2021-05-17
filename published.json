@@ -226,6 +226,14 @@
                             "path": "discussions/06-hypothesis_testing/export.zip"
                         }
                     }
+                },
+                "08-confidence_intervals": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/08-confidence_intervals/export.zip"
+                        }
+                    }
                 }
             }
         },
