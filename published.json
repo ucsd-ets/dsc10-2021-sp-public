@@ -365,6 +365,14 @@
                         }
                     }
                 },
+                "projects/project2": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "default/projects/project2/export.zip"
+                        }
+                    }
+                },
                 "reference": {
                     "metadata": {},
                     "artifacts": {
