@@ -165,6 +165,17 @@
                             "path": "lectures/14-ci-mean-spread/filled/export.zip"
                         }
                     }
+                },
+                "15-clt": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/15-clt/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/15-clt/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
