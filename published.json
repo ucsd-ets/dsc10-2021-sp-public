@@ -306,6 +306,14 @@
                             "path": "labs/06-resampling_and_the_bootstrap/export.zip"
                         }
                     }
+                },
+                "07-why_the_mean_matters_in_school_life": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/07-why_the_mean_matters_in_school_life/export.zip"
+                        }
+                    }
                 }
             }
         },
@@ -365,6 +373,14 @@
                     "artifacts": {
                         "export.zip": {
                             "path": "homeworks/06-bootstrap/export.zip"
+                        }
+                    }
+                },
+                "07-confidence_intervals": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "homeworks/07-confidence_intervals/export.zip"
                         }
                     }
                 }
