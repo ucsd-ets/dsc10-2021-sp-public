@@ -256,6 +256,14 @@
                             "path": "discussions/08-confidence_intervals/export.zip"
                         }
                     }
+                },
+                "09-normal_clt": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "discussions/09-normal_clt/export.zip"
+                        }
+                    }
                 }
             }
         },
