@@ -176,6 +176,17 @@
                             "path": "lectures/15-clt/filled/export.zip"
                         }
                     }
+                },
+                "16-normal-ci": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/16-normal-ci/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/16-normal-ci/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
