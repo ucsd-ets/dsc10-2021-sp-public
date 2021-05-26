@@ -187,6 +187,17 @@
                             "path": "lectures/16-normal-ci/filled/export.zip"
                         }
                     }
+                },
+                "17-regression": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/17-regression/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/17-regression/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
