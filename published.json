@@ -344,6 +344,14 @@
                             "path": "labs/07-why_the_mean_matters_in_school_life/export.zip"
                         }
                     }
+                },
+                "08-regression": {
+                    "metadata": {},
+                    "artifacts": {
+                        "export.zip": {
+                            "path": "labs/08-regression/export.zip"
+                        }
+                    }
                 }
             }
         },
