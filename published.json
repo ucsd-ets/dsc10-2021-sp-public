@@ -198,6 +198,17 @@
                             "path": "lectures/17-regression/filled/export.zip"
                         }
                     }
+                },
+                "18-more_regression": {
+                    "metadata": {},
+                    "artifacts": {
+                        "blank/export.zip": {
+                            "path": "lectures/18-more_regression/blank/export.zip"
+                        },
+                        "filled/export.zip": {
+                            "path": "lectures/18-more_regression/filled/export.zip"
+                        }
+                    }
                 }
             }
         },
